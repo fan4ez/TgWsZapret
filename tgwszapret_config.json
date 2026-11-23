@@ -1,0 +1,8 @@
+{
+  "default_dir": "C:\\tgwszapret",
+  "zapret_bat_path": "C:\\tgwszapret\\general (FAKE TLS AUTO).bat",
+  "tgws_file_path": "C:\\tgwszapret\\tgwsproxy\\TgWsProxy_windows.exe",
+  "use_zapret": true,
+  "use_tgws": true,
+  "autostart": false
+}
